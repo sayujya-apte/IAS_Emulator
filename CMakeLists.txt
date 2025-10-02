@@ -5,7 +5,10 @@ set(
     SOURCE_FILES
 
     src/main.c
-    src/word.c
+    src/mem.c
+    src/instr.c
+    src/machine.c
+    
 )
 
 add_executable(

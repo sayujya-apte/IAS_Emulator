@@ -7,5 +7,7 @@ AlignConsecutiveMacros: true
 AlignConsecutiveAssignments: true
 AlignConsecutiveDeclarations: true
 
+AlignTrailingComments: Always
+
 DerivePointerAlignment: false
 PointerAlignment: Left
